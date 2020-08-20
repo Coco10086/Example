@@ -6,4 +6,4 @@
     4.GuildMask 不依赖sprite的遮罩
     5.Empty4Raycast，不依赖sprite的点击区域
     6.CanvasRebuild，Canvas重建监听
-3.PointsMove
+3.PointsMove 带路径点的来回移动
